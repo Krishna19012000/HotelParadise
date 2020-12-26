@@ -32,5 +32,9 @@ Hotel Paradise Project
 <br/>
 
 ## Sample Images of the application
+![1](https://user-images.githubusercontent.com/45157027/103148207-4d3de580-472b-11eb-8d2c-c555be6733fb.jpeg)
+![2](https://user-images.githubusercontent.com/45157027/103148208-52029980-472b-11eb-9c44-772f98a2bc29.jpeg)
+![3](https://user-images.githubusercontent.com/45157027/103148209-53cc5d00-472b-11eb-8736-dbab12cd5d83.jpeg)
+![4](https://user-images.githubusercontent.com/45157027/103148210-55962080-472b-11eb-86a0-ce32d8ee1b9e.jpeg)
 
 <br/>
