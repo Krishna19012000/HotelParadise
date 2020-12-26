@@ -86,9 +86,8 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`loginId`, `userName`, `password`) VALUES
-(6, 'harsh', 'harsh'),
-(8, 'krishna', 'krishna'),
-(15, 'raj', 'raj');
+(6, 'root', 'root'),
+(8, 'admin', 'admin');
 
 -- --------------------------------------------------------
 
